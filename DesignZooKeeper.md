@@ -1,7 +1,7 @@
 <!-- Christine Tobias -->
 <!-- Module 5 - Spring2026 -->
 
-##Design Plan - “Zookeeper’s Challenge”:
+DESIGN PLAN - “Zookeeper’s Challenge”:
 
 1. Open the arrivingAnimals.txt file using file I/O.
 2. Open the animalNames.txt file using file I/O.
